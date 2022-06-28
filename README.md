@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   <img align="left" alt="Fiverr" width="22px" src="https://github.com/hganchev/hganchev/blob/main/Socials/fiverr.svg" />
 </a>
 <br><br><br>
-<img align="center" width="500" height="300" src="https://github.com/hganchev/hganchev/blob/main/Gifs/giphy.gif" />
-<img align="center" width="500" height="300" src="https://github.com/hganchev/hganchev/blob/main/Gifs/octocat.gif" />
+<img align="center" width="30p" src="https://github.com/hganchev/hganchev/blob/main/Gifs/Chess.gif" />
+
