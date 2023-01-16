@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>🔭 I’m currently working with: </p>
-<p> - TwinCat </p>
+<p> - TwinCat, CodeSys </p>
 <p> - C# Projects </p>
 <p> - Robotics (Mitsubishi, Universal Robots) </p>
 <p> - Python </p>
