@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 <a href="https://www.fiverr.com/users/hganchev">
   <img align="left" alt="Fiverr" width="22px" src="https://github.com/hganchev/hganchev/blob/main/Socials/fiverr.svg" />
 </a>
+<br>
 
+### My Stats
+<br>
 <a href="https://github.com/hganchev">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=hganchev&show_icons=true&hide_title=true&count_private=true&theme=vue" />
 </a>
