@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>🔭 I’m currently working with: </p>
-<p> - TwinCat, CodeSys (ST, FBD, Ladder) as backend</p>
-<p> - C#, .NET as frontend </p>
-<p> - Robotics (Mitsubishi, Universal Robots) </p>
-<p> - Python </p>
-<p> - Arduino </p>
+🔭 I’m currently working with: 
+ - TwinCat, CodeSys (IEC 61131-3)
+ - C#, .NET Framework, .NET Core 
+ - Robotics (Mitsubishi (MELFA), Universal Robots(UR)) 
+ - Python 
+ - Arduino 
+
+👯 I’m looking to collaborate on:
+  - Automation projects
+
 
 <p>📫 How to reach me: </p>
 <a href="https://discordapp.com/users/hganchev#7123">
