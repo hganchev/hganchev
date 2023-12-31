@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working with: 
- - TwinCat, CodeSys (IEC 61131-3)
+ - TwinCat, CodeSys ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3))
  - C#, .NET Framework, .NET Core 
  - Robotics (Mitsubishi (MELFA), Universal Robots(UR)) 
  - Python 
