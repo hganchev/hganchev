@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on:
   - Automation projects
+  - IoT automation
+  - ML automation
+  - Robotics
 
 
 <p>📫 How to reach me: </p>
