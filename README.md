@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - C#, .NET Framework, .NET Core 
  - Robotics (Mitsubishi (MELFA), Universal Robots(UR)) 
  - Python 
- - Arduino 
+ - Arduino, Raspberry Pi
 
 👯 I’m looking to collaborate on:
   - Automation projects
