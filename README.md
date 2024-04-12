@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working with: 
- - TwinCat, CodeSys ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3))
- - C#, .NET Framework, .NET Core 
- - Robotics (Mitsubishi (MELFA), Universal Robots(UR)) 
- - Python 
- - Arduino, Raspberry Pi
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/twincat.png" width="35px"/> TwinCat ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3))
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/codesys.jpg" width="35px"/> CodeSys ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3)) 
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/c-icon-logo.png" width="35px"/> C#  (.NET Framework, .NET Core)
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/python-icon-logo.png" width="35px"/> Python 
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/arduino-icon-logo.png" width="35px"/> Arduino
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/raspberry.png" width="35px"/> Raspberry Pi
+ - <img src="https://github.com/hganchev/hganchev/blob/main/icons/industrial-robot-logo-icon.jpg" width="35px"/> Robotics (Mitsubishi (MELFA), Universal Robots(UR), Epson) 
 
 👯 I’m looking to collaborate on:
   - Automation projects
@@ -50,9 +52,9 @@ Here are some ideas to get you started:
 ### My Stats
 <br>
 <a href="https://github.com/hganchev">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=hganchev&show_icons=true&hide_title=true&count_private=true&theme=vue" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hganchev&show_icons=true&hide_title=true&count_private=true&theme=vue" />
 </a>
-        <a href="https://github.com/hganchev">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook" />
-        </a>
+<a href="https://github.com/hganchev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook" />
+</a>
 
