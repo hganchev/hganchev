@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>🔭 I’m currently working with: </p>
-<p> - TwinCat, CodeSys </p>
-<p> - C# Projects </p>
-<p> - Robotics (Mitsubishi, Universal Robots) </p>
-<p> - Python </p>
-<p> - Arduino </p>
+🔭 I’m currently working with: 
+ - TwinCat, CodeSys ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3))
+ - C#, .NET Framework, .NET Core 
+ - Robotics (Mitsubishi (MELFA), Universal Robots(UR)) 
+ - Python 
+ - Arduino, Raspberry Pi
+
+👯 I’m looking to collaborate on:
+  - Automation projects
+  - IoT automation
+  - ML automation
+  - Robotics
+
 
 <p>📫 How to reach me: </p>
 <a href="https://discordapp.com/users/hganchev#7123">
@@ -38,4 +45,14 @@ Here are some ideas to get you started:
 <a href="https://www.fiverr.com/users/hganchev">
   <img align="left" alt="Fiverr" width="22px" src="https://github.com/hganchev/hganchev/blob/main/Socials/fiverr.svg" />
 </a>
+<br>
+
+### My Stats
+<br>
+<a href="https://github.com/hganchev">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=hganchev&show_icons=true&hide_title=true&count_private=true&theme=vue" />
+</a>
+        <a href="https://github.com/hganchev">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook" />
+        </a>
 
