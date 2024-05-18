@@ -24,6 +24,11 @@ Here are some ideas to get you started:
   - <img src="https://github.com/hganchev/hganchev/blob/main/icons/raspberry.png" width="35px"/>  Raspberry Pi
   - <img src="https://github.com/hganchev/hganchev/blob/main/icons/industrial-robot-logo-icon.jpg" width="35px"/>  Robotics (Mitsubishi (MELFA), Universal Robots(UR), Epson)
 
+### :newspaper: Latest Articles
+- [How to control axis/motor in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
+- [How to split a STRING in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
+- [How to round a REAL/LREAL in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
+
 ### 👯 I’m looking to collaborate on:
   - Automation projects
   - IoT automation
