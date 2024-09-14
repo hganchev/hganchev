@@ -14,27 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 🔭 I’m currently working with: 
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/twincat.png" width="35px"/>  TwinCat ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3))
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/codesys.jpg" width="35px"/>  CodeSys ([IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3))
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/c-icon-logo.png" width="35px"/>  C#  (.NET Framework, .NET Core)
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/python-icon-logo.png" width="35px"/>  Python 
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/arduino-icon-logo.png" width="35px"/>  Arduino
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/raspberry.png" width="35px"/>  Raspberry Pi
-  - <img src="https://github.com/hganchev/hganchev/blob/main/icons/industrial-robot-logo-icon.jpg" width="35px"/>  Robotics (Mitsubishi (MELFA), Universal Robots(UR), Epson)
-
-### :newspaper: Latest Articles
-- [How to control axis/motor in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
-- [How to split a STRING in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
-- [How to round a REAL/LREAL in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
-
 ### 👯 I’m looking to collaborate on:
   - Automation projects
   - IoT automation
   - ML automation
   - Robotics
 
+### 🔭 I’m currently working on: 
+  - Cost-Effective Academy project
+
+### Technologies 
+<a href="https://www.beckhoff.com/en-en/products/automation/twincat/twincat-3-build-4026/"><img src="https://github.com/hganchev/hganchev/blob/main/icons/twincat.png" width="35px"/>
+<a href="https://en.wikipedia.org/wiki/CODESYS"><img src="https://github.com/hganchev/hganchev/blob/main/icons/codesys.jpg" width="35px"/>
+<a href="https://bg.wikipedia.org/wiki/C_Sharp"><img src="https://github.com/hganchev/hganchev/blob/main/icons/c-icon-logo.png" width="35px"/>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/hganchev/hganchev/blob/main/icons/python-icon-logo.png" width="35px"/>
+<a href="https://en.wikipedia.org/wiki/Arduino"><img src="https://github.com/hganchev/hganchev/blob/main/icons/arduino-icon-logo.png" width="35px"/>
+<a href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img src="https://github.com/hganchev/hganchev/blob/main/icons/raspberry.png" width="35px"/>
+<a href="https://en.wikipedia.org/wiki/Industrial_robot"><img src="https://github.com/hganchev/hganchev/blob/main/icons/industrial-robot-logo-icon.jpg" width="35px"/>
+
+### :newspaper: Latest Articles
+- [How to control axis/motor in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
+- [How to split a STRING in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
+- [How to round a REAL/LREAL in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
 
 ### <p>📫 How to reach me: </p>
 <a href="https://discordapp.com/users/hganchev#7123">
