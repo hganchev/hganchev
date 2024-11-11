@@ -56,11 +56,8 @@ Here are some ideas to get you started:
 <br>
 
 ## My Stats
-<br>
-<a href="https://github.com/hganchev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hganchev&show_icons=true&hide_title=true&count_private=true&theme=vue" />
-</a>
-<a href="https://github.com/hganchev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook" />
-</a>
+
+![](https://github-readme-stats.vercel.app/api?username=hganchev&show_icons=true&hide_title=true&count_private=true&theme=vue)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hganchev&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook)
 
