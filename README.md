@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on: 
   - Cost-Effective Academy project
+      - Technologies
+          - Django Backend
+          - React Frontend
+          - Elasticsearch
+          - RESTFull API
+
+
 
 ## Technologies 
 <a href="https://www.beckhoff.com/en-en/products/automation/twincat/twincat-3-build-4026/"><img src="https://github.com/hganchev/hganchev/blob/main/icons/twincat.png" width="35px"/>
