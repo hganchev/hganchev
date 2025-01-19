@@ -14,21 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👯 I’m looking to collaborate on:
-  - 🦾 Automation projects
-  - 📶📡🛰️🤳 IoT automation
-  - 📈 ML automation
-  - 🤖 Robotics
-
 ## 🔭 I’m currently working on: 
-  - Cost-Effective Academy project
+  - [Cost-Effective Solutions - Team Lead Academy](https://www.linkedin.com/school/costeffective-solutions/posts/?feedView=all)
       - Technologies
           - Django Backend
           - React Frontend
           - Elasticsearch
           - RESTFull API
-
-
+       
+## 👯 I’m looking to collaborate on:
+  - 🦾 Automation projects
+  - 📶📡🛰️🤳 IoT automation
+  - 📈 ML automation
+  - 🤖 Robotics
 
 ## Technologies 
 <a href="https://www.beckhoff.com/en-en/products/automation/twincat/twincat-3-build-4026/"><img src="https://github.com/hganchev/hganchev/blob/main/icons/twincat.png" width="35px"/>
@@ -54,9 +52,6 @@ Here are some ideas to get you started:
 <a href="mailto:hristo.iliev.ganchev@gmail.com">
   <img align="left" alt="gmail" width="22px" src="https://github.com/hganchev/hganchev/blob/main/Socials/gmail.png" />
 </a>
-<br>
-
-## <p>📫 Freelancing platforms: </p>
 <a href="https://www.fiverr.com/users/hganchev">
   <img align="left" alt="Fiverr" width="22px" src="https://github.com/hganchev/hganchev/blob/main/Socials/fiverr.svg" />
 </a>
