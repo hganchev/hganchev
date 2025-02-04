@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   - 📈 ML automation
   - 🤖 Robotics
 
+:arrow_right: [Automation Projects](https://github.com/Technical-Software-Solutions)
+:bulb: [Ideas and discussions](https://github.com/orgs/Technical-Software-Solutions/discussions)
+:chart_with_upwards_trend: [Automation Trends](https://github.com/Technical-Software-Solutions/industry-automation-trends)
+
 ## Technologies 
 <a href="https://www.beckhoff.com/en-en/products/automation/twincat/twincat-3-build-4026/"><img src="https://github.com/hganchev/hganchev/blob/main/icons/twincat.png" width="35px"/>
 <a href="https://en.wikipedia.org/wiki/CODESYS"><img src="https://github.com/hganchev/hganchev/blob/main/icons/codesys.jpg" width="35px"/>
