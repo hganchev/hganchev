@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## :computer: Latest Projects 
 ------------------------------------------------------------------------------------------------
-### 🚀 ERP for SRV 
+### ERP for SRV 
 [Cost-Effective Solutions](https://linkedin.com/school/costeffective-solutions/) Season 3
 
 **Description:**  
@@ -38,13 +38,13 @@ updating and maintaining a centralized database to ensure accurate product listi
 availability.
 
 **🛠 Tech Stack:**  
-- ![Python/Django Backend](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Javascript/React Frontend](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Python/Django Backend](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Javascript/React Frontend](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**Deployment:**
-- ![GitHub Actions](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**🚀 Deployment:**   
+![GitHub Actions](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **👥 Team:**  
 - [Daniel Terziev](https://github.com/danielterziev92) - Backend  
