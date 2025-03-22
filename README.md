@@ -47,10 +47,10 @@ availability.
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **👥 Team:**  
-- [Daniel Terziev](#) - Backend  
-- [Stoyan Stoyanov](#) - Frontend  
-- [Lora Mitova](#) - Frontend
-- [Martin Sofroniev](#) - Frontend  
+- [Daniel Terziev](#https://github.com/danielterziev92) - Backend  
+- [Stoyan Stoyanov](#https://github.com/StoyanStoyanov1) - Frontend  
+- [Lora Mitova](#https://github.com/lorindi) - Frontend
+- [Martin Sofroniev](#https://github.com/Martin322s) - Frontend  
 
 **📅 Date:**  
 🗓 Start Date: 2024-11-01 
