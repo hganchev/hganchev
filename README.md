@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## :computer: Latest Projects 
 ------------------------------------------------------------------------------------------------
 ### 🚀 ERP for SRV 
-[Cost-Effective Solutions](#https://linkedin.com/school/costeffective-solutions/) Season 3
+[Cost-Effective Solutions](https://linkedin.com/school/costeffective-solutions/) Season 3
 
 **Description:**  
 The ERP system developed for SRV, an owner of multiple online stores specializing in IT 
@@ -47,10 +47,10 @@ availability.
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **👥 Team:**  
-- [Daniel Terziev](#https://github.com/danielterziev92) - Backend  
-- [Stoyan Stoyanov](#https://github.com/StoyanStoyanov1) - Frontend  
-- [Lora Mitova](#https://github.com/lorindi) - Frontend
-- [Martin Sofroniev](#https://github.com/Martin322s) - Frontend  
+- [Daniel Terziev](https://github.com/danielterziev92) - Backend  
+- [Stoyan Stoyanov](https://github.com/StoyanStoyanov1) - Frontend  
+- [Lora Mitova](https://github.com/lorindi) - Frontend
+- [Martin Sofroniev](https://github.com/Martin322s) - Frontend  
 
 **📅 Date:**  
 🗓 Start Date: 2024-11-01 
