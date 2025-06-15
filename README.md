@@ -41,7 +41,7 @@ This organization hosts a collection of industrial automation projects, focusing
 - [How to split a STRING in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
 - [How to round a REAL/LREAL in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
 
-## :computer: [Latest Projects](https://github.com/hganchev/hganchev/blob/main/projects.md)
+## :computer: [Latest Projects](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects)
 
 ## My Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook)
