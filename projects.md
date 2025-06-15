@@ -25,6 +25,6 @@ availability.
 - [Martin Sofroniev](https://github.com/Martin322s) - Frontend  
 
 **📅 Date:**  
-🗓 Start Date: 2024-01-06 
+🗓 Start Date: 2024-01-06 <br>
 🚀 Completion Date: 2025-30-03
 ------------------------------------------------------------------------------------------------------------------------
