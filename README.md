@@ -15,47 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My orgranizations
-:arrow_right: [Automation Projects](https://github.com/Technical-Software-Solutions)
-:bulb: [Ideas and discussions](https://github.com/orgs/Technical-Software-Solutions/discussions)
-:chart_with_upwards_trend: [Automation Trends](https://github.com/Technical-Software-Solutions/industry-automation-trends)
+### ➡️ [Automation Projects](https://github.com/Technical-Software-Solutions)
+This organization hosts a collection of industrial automation projects, focusing on:
+
+- **PLC & HMI Development**: Structured Text (ST), Ladder, and FBD for Beckhoff (TwinCAT) and CODESYS environments.
+- **Robot Programming**: Solutions for **Mitsubishi**, **Universal Robots**, and **Epson** platforms.
+- **Beckhoff Automation**: Motion control, IO-link, EtherCAT integrations.
+- **CODESYS Applications**: Modular control logic and HMI interfaces for various industrial setups.<br>
+💡 [Ideas and discussions](https://github.com/orgs/Technical-Software-Solutions/discussions)<br>
+📈 [Automation Trends](https://github.com/Technical-Software-Solutions/industry-automation-trends)<br>
+> Purpose: Share practical automation code, reusable libraries, and real-world examples to streamline industrial automation solutions.
+
+### ➡️ [DHS Soft Hub](https://github.com/DHS-Soft-Hub)
+
+**DHS Soft Hub** is a development and collaboration space focused on building modern web applications and tools that streamline project workflows.
+
+## Key Focus Areas
+
+- **Web Development**: Full-stack applications using technologies like ASP.NET, Blazor, Django, Next.js, and RESTful APIs.
+- **Project Management Tools**: Custom-built solutions for requirements gathering, task tracking, and progress monitoring.
+- **Client & Developer Portals**: Interactive platforms for collaboration, technical specification review, and transparent project communication.<br>
+💡 [Ideas and discussions](https://github.com/orgs/DHS-Soft-Hub/discussions)
+
+> 🤝 Our mission is to bridge the gap between clients and developers by delivering structured, collaborative, and efficient software development experiences.
+
 
 ## :newspaper: Latest Articles
 - [How to control axis/motor in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
 - [How to split a STRING in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
 - [How to round a REAL/LREAL in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
 
-## :computer: Latest Projects 
-------------------------------------------------------------------------------------------------
-### ERP for SRV 
-[Cost-Effective Solutions](https://linkedin.com/school/costeffective-solutions/) Season 3
-
-**Description:**  
-The ERP system developed for SRV, an owner of multiple online stores specializing in IT 
-solutions, is a comprehensive platform that streamlines the management of products, suppliers, orders, 
-and prices. The primary website, SRV.bg, features a catalog of technology products such as processors, 
-monitors, computers, and servers. The ERP system integrates information from various suppliers, 
-updating and maintaining a centralized database to ensure accurate product listings, pricing, and 
-availability.
-
-**🛠 Tech Stack:**  
-![Python/Django Backend](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Javascript/React Frontend](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-**🚀 Deployment:**   
-![GitHub Actions](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**👥 Team:**  
-- [Daniel Terziev](https://github.com/danielterziev92) - Backend  
-- [Stoyan Stoyanov](https://github.com/StoyanStoyanov1) - Frontend  
-- [Lora Mitova](https://github.com/lorindi) - Frontend
-- [Martin Sofroniev](https://github.com/Martin322s) - Frontend  
-
-**📅 Date:**  
-🗓 Start Date: 2024-11-01 
-🚀 Completion Date: 2025-28-02
-------------------------------------------------------------------------------------------------
+## :computer: [Latest Projects](https://github.com/hganchev/hganchev/blob/main/projects.md)
 
 ## My Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook)
