@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My orgranizations
+### ➡️ [DHS Soft Hub](https://github.com/DHS-Soft-Hub)
+**DHS Soft Hub** is a development and collaboration space focused on building modern web applications and tools that streamline project workflows.
+
+- **Web Development**: Full-stack applications using technologies like ASP.NET, Blazor, Django, Next.js, and RESTful APIs.
+- **Project Management Tools**: Custom-built solutions for requirements gathering, task tracking, and progress monitoring.
+- **Client & Developer Portals**: Interactive platforms for collaboration, technical specification review, and transparent project communication.<br>
+💡 [Ideas and discussions](https://github.com/orgs/DHS-Soft-Hub/discussions)
+
+> 🤝 Our mission is to bridge the gap between clients and developers by delivering structured, collaborative, and efficient software development experiences.
+
 ### ➡️ [Automation Projects](https://github.com/Technical-Software-Solutions)
 This organization hosts a collection of industrial automation projects, focusing on:
 
@@ -25,16 +35,6 @@ This organization hosts a collection of industrial automation projects, focusing
 💡 [Ideas and discussions](https://github.com/orgs/Technical-Software-Solutions/discussions)<br>
 📈 [Automation Trends](https://github.com/Technical-Software-Solutions/industry-automation-trends)<br>
 > Purpose: Share practical automation code, reusable libraries, and real-world examples to streamline industrial automation solutions.
-
-### ➡️ [DHS Soft Hub](https://github.com/DHS-Soft-Hub)
-**DHS Soft Hub** is a development and collaboration space focused on building modern web applications and tools that streamline project workflows.
-
-- **Web Development**: Full-stack applications using technologies like ASP.NET, Blazor, Django, Next.js, and RESTful APIs.
-- **Project Management Tools**: Custom-built solutions for requirements gathering, task tracking, and progress monitoring.
-- **Client & Developer Portals**: Interactive platforms for collaboration, technical specification review, and transparent project communication.<br>
-💡 [Ideas and discussions](https://github.com/orgs/DHS-Soft-Hub/discussions)
-
-> 🤝 Our mission is to bridge the gap between clients and developers by delivering structured, collaborative, and efficient software development experiences.
 
 ## :newspaper: Latest Articles
 - [How to control axis/motor in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
