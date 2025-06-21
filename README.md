@@ -36,10 +36,11 @@ This organization hosts a collection of industrial automation projects, focusing
 📈 [Automation Trends](https://github.com/Technical-Software-Solutions/industry-automation-trends)<br>
 > Purpose: Share practical automation code, reusable libraries, and real-world examples to streamline industrial automation solutions.
 
-## :newspaper: Latest Articles
-- [How to control axis/motor in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
-- [How to split a STRING in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
-- [How to round a REAL/LREAL in TwinCAT/Codesys](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
+## :newspaper: Latest Articles posted in [Medium.com](https://medium.com/@hristo.iliev.ganchev)
+- [How to control axis/motor in TwinCAT/Codesys : August 2023](https://medium.com/@hristo.iliev.ganchev/how-to-control-axis-motor-in-twincat-codesys-d89972621025)
+- [How to split a STRING in TwinCAT/Codesys : August 2023](https://medium.com/@hristo.iliev.ganchev/how-to-split-a-string-in-twincat-77e4b2985dee)
+- [How to round a REAL/LREAL in TwinCAT/Codesys : March 2024](https://medium.com/@hristo.iliev.ganchev/how-to-round-a-real-lreal-in-twincat-d551172555f3)
+- [How to Implement State Machine Programming in TwinCAT/Codesys : June 2025](https://medium.com/@hristo.iliev.ganchev/how-to-implement-state-machine-programming-in-twincat-1154983d03d8)
 
 ## :computer: [Latest Projects](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects)
 
