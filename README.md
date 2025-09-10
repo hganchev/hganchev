@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 I am currently working on:
+### **Microservice Architecture** project [e-commerce microservices](https://github.com/DHS-Soft-Hub/e-commerce-microservice-project)
+**Technologies used**:
+- **NET ASP Core** (MassTransit, MediatR, gRPC, GraphQL)
+- **Java** (Sping Boot 3)
+- **Typescript/React** (Frontend)
+
+### **Goals of the project**: 
+✅ Improving skills - .NET, Java, TypeScript </br>
+✅ Enterprise patterns - CQRS, Saga, DDD, Repository </br>
+✅ Modern architecture - microservices, GraphQL, event-driven </br>
+✅ Performance focus - speed and scalability </br>
+✅ Professional tone - good for recruiters and tech leads </br>
+
 ## My orgranizations
 ### ➡️ [DHS Soft Hub](https://github.com/DHS-Soft-Hub)
 **DHS Soft Hub** is a development and collaboration space focused on building modern web applications and tools that streamline project workflows.
