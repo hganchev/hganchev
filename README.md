@@ -44,6 +44,7 @@ This organization hosts a collection of industrial automation projects, focusing
 
 ## :computer: [Latest Projects](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects)
 - [ERP e-commerce system for SRV.bg](https://github.com/hganchev/hganchev-portfolio/blob/main/Projects/ERP_SRV)
+- [Microservices e-commerce](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects/e-commerce-microservices)
 
 ## My Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hganchev&layout=compact&theme=vue&hide=jupyter%20notebook)
