@@ -1,4 +1,4 @@
-# <p align="center"> Hi there My name is Hristo👋</p>
+# <p align="center"> Hi there, My name is Hristo👋</p>
 
 <!--
 **hganchev/hganchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My orgranizations
+## My organizations
 ### ➡️ [DHS Soft Hub](https://github.com/DHS-Soft-Hub)
 **DHS Soft Hub** is a development and collaboration space focused on building modern web applications and tools that streamline project workflows.
 
