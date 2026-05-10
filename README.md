@@ -69,3 +69,9 @@ This organization hosts a collection of industrial automation projects, focusing
 </a>
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hganchev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+> “Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.” — Eagleson’s Law
+
