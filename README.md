@@ -74,7 +74,7 @@ Industrial automation projects for real-world manufacturing environments.
 
 | Year | Project | Client | Stack | Status |
 |------|---------|--------|-------|--------|
-| 2025 | [🧠 Soft Hub Portal](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects/soft-hub-portal) | DHS Hub | Django Ninja · Next.js · TypeScript · AI | 🔄 In Progress |
+| 2025 | [🧠 Soft Hub Portal](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects/soft-hub-portal) | DHS Hub | .NET 10 · Next.js · TypeScript · AI | 🔄 In Progress |
 | 2025 | [📋 Zona Clima — Work Reports](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects/zona-clima-work-reports) | Zona Clima | .NET 10 · Blazor · Keycloak · PostgreSQL | 🔄 In Progress |
 | 2025 | [🛒 E-Commerce Microservices](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects/e-commerce-microservices) | Portfolio / R&D | .NET · Java · TypeScript | 🔄 In Progress |
 | 2024 | [📦 ERP for SRV](https://github.com/hganchev/hganchev-portfolio/tree/main/Projects/erp-srv) | SRV.bg | Django · React · Elasticsearch | ✅ Completed |
